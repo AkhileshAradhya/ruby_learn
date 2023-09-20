@@ -2,7 +2,7 @@ class A                #parent class
 $Ab=20
     def Aki
         puts "Aradhya hello!"
-      #  puts $Ab
+puts $Ab
     end
 
     def initialize
